@@ -11,7 +11,6 @@ Este repositório contém um script Python para analisar a performance de uma ca
     - matplotlib
     - pandas_datareader
     - yfinance
-    - openpyxl
 
 ## **Instruções de uso**
 
