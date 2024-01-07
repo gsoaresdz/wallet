@@ -23,7 +23,7 @@ Este repositório contém um script Python para analisar a performance de uma ca
 | SMAL11 | ETF | 100 |
 | MGLU3 | Ação | 1000 |
 | ... | ... | ... |
-1. Execute o script **`main.py`** para gerar a análise gráfica da performance da carteira.
+1. Execute o script **`main.ipynb`** para gerar a análise gráfica da performance da carteira.
 
 ## **Funcionalidades**
 
