@@ -1,89 +1,87 @@
-<h1 align="center">Carteira de Ativos - Análise de Performance</h1>
+<h1 align="center">Asset Portfolio - Performance Analysis</h1>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/carteira?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/carteira?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/carteira?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-recursos">Recursos</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-observações-importantes">Observações Importantes</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-running">Running</a> &#xa0; | &#xa0;
+  <a href="#memo-important-notes">Important Notes</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-O projeto "Carteira de Investimentos" é uma aplicação desenvolvida em Python, utilizando Jupyter Notebook, para gerenciar e analisar uma carteira de investimentos. O projeto faz uso de um arquivo Excel para armazenar os dados da carteira.
+The "Investment Portfolio" project is an application developed in Python, using Jupyter Notebook, to manage and analyze an investment portfolio. The project uses an Excel file to store the portfolio data.
 
-## **:memo: Regra de Negócio**
+## **:memo: Business Rule**
 
-O principal objetivo do projeto é permitir a organização e análise de uma carteira de investimentos de forma automatizada. A aplicação permite a leitura dos dados da carteira a partir de um arquivo Excel e fornece ferramentas para análise dos investimentos.
+The main objective of the project is to allow the organization and analysis of an investment portfolio in an automated way. The application allows reading portfolio data from an Excel file and provides tools for investment analysis.
 
-## **:sparkles: Recursos**
+## **:sparkles: Features**
 
-:heavy_check_mark: **Recurso 1**: Leitura de dados da carteira a partir de um arquivo Excel.
+:heavy_check_mark: **Feature 1**: Read portfolio data from an Excel file.
 
-:heavy_check_mark: **Recurso 2**: Análise dos dados da carteira.
+:heavy_check_mark: **Feature 2**: Analyze portfolio data.
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes ferramentas foram usadas neste projeto:
+The following tools were used in this project:
 
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de iniciar :checkered_flag:, você precisa ter [Python 3.6](https://www.python.org/downloads/release/python-360/) ou superior instalado.
+Before starting :checkered_flag:, you need to have [Python 3.6](https://www.python.org/downloads/release/python-360/) or higher installed.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Running**
 
-### Clonando o Repositório
+### Cloning the Repository
 
-Primeiramente, clone o repositório do projeto para sua máquina local.
+First, clone the project repository to your local machine.
 
 ```bash
 $ git clone https://github.com/gsoaresdz/carteira.git
 ```
 
-### Instalação das Dependências
+### Installing Dependencies
 
-Para instalar as dependências do projeto, execute o seguinte comando no terminal:
+To install the project dependencies, run the following command in the terminal:
 
 ```bash
 $ pip install pandas openpyxl jupyter
 ```
 
-### Execução do Código
+### Running the Code
 
-Para executar o projeto, abra o Jupyter Notebook e execute o arquivo `main.ipynb`.
+To run the project, open Jupyter Notebook and execute the `main.ipynb` file.
 
 ```bash
-# Acesse o diretório do projeto
+# Access the project directory
 $ cd carteira
 
-# Inicie o Jupyter Notebook
+# Start Jupyter Notebook
 $ jupyter notebook
 ```
 
-## **:memo: Observações Importantes**
+## **:memo: Important Notes**
 
-- Este projeto é apenas para fins educacionais e de estudo.
-- As análises realizadas são baseadas nos dados fornecidos no arquivo Excel e devem ser interpretadas com cautela.
+- This project is for educational and study purposes only.
+- The analyses performed are based on the data provided in the Excel file and should be interpreted with caution.
 
-## **:memo: Licença**
+## **:memo: License**
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-&#xa0;
-
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
